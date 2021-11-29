@@ -1,5 +1,5 @@
 # Site settings
-title: This is a title
+title: 大學生 x 聯誼了沒
 email:
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -9,9 +9,9 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner: Justin
+owner: 大學生 x 聯誼了沒
 email:
-facebook_username:
+facebook_username: UniDatings
 twitter_username:
 github_username:
 address:
